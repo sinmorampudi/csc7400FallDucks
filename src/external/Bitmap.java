@@ -1,8 +1,7 @@
-/**
- * Class: Object-Oriented Design and Analysis
+* Class: Object-Oriented Design and Analysis
  * Professor: Orlando Montalvo
  * Assignment: HW 9
- * 
+ * @author Sindhuja Morampudi,divya kasu
  * Date: 2017-11-28
  */
 package external;
@@ -16,3 +15,4 @@ public interface Bitmap {
    */
   public void show();
 }
+
